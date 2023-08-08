@@ -5,7 +5,7 @@ Highly skilled Front-End engineer with a Bachelor's degree in Computer Science w
 
 * 🌍  I'm based in Ukraine, Lviv / Brody
 * ✉️  You can contact me at [vgerun97@gmail.com](mailto:vgerun97@gmail.com)
-* 🚀  I'm currently working on [InterviewBoom](http://interviewboom.com/)
+* 🚀  I'm currently working on [B1000 Laser](http://b1000.com.ua/)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting startups
 * ⚡  Precision is my disease
@@ -43,7 +43,7 @@ Highly skilled Front-End engineer with a Bachelor's degree in Computer Science w
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/kas1qqqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kas1qqqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://kas1qqqq.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kas1qqqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-gerun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://rss.com/podcasts/beyond-the-surface/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/kas1qqqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kas1qqqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kas1qqqq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/volodymyr-gerun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
