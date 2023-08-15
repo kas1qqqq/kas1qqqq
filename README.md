@@ -3,11 +3,11 @@ Hi 👋 My name is Volodymyr
 
 Highly skilled Front-End engineer with a Bachelor's degree in Computer Science with over 1 year of software development experience creating visually stunning and user-friendly websites and web applications. Passionate about delivering exceptional user experiences through clean and efficient code.
 
-* 🌍  I'm based in Ukraine, Lviv / Brody
+* 🌍  I'm based in Lviv Region
 * ✉️  You can contact me at [vgerun97@gmail.com](mailto:vgerun97@gmail.com)
 * 🚀  I'm currently working on [Laser B1000](http://b1000.com.ua/)
-* 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on interesting startups
+* 🧠  I'm learning Node.js and Next.js
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  Precision is my disease
 
 ### Skills
