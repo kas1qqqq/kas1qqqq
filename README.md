@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🌍 I'm based in Lviv Region<br>✨ Creating bugs since the beginning of 2022<br>✉️  You can contact me at vgerun97@gmail.com<br>🚀  I'm currently working on Laser B1000<br>📚 I'm currently learning Next.js and Node.js<br>🤝 I'm open to collaborating on exciting projects<br>🎯 My goal is to develop a service that can be useful worldwide</p>
+<p align="left">🌍 I'm based in Lviv Region<br>✨ Creating bugs since the beginning of 2022<br>✉️  You can contact me at vgerun97@gmail.com<br>🚀  I'm currently working on Laser B1000<br>📚 I'm currently learning Next.js and Nest.js<br>🤝 I'm open to collaborating on exciting projects<br>🎯 My goal is to develop a service that can be useful worldwide</p>
 
 ###
 
-<h2 align="left">Front-End technical stack</h2>
+<h2 align="left">Front-End | Technical Stack</h2>
 
 ###
 
@@ -47,16 +47,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
 
 ###
 
-<h2 align="left">Back-End technical stack and tools</h2>
+<h2 align="left">Back-End | Technical Stack and Tools</h2>
 
 ###
 
@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -80,6 +80,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
