@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 I'm based in Lviv Region<br>✨ Creating bugs since the beginning of 2022<br>✉️  You can contact me at vgerun97@gmail.com<br>🚀  I'm currently working on Laser B1000<br>📚 I'm currently learning Next.js and Node.js<br>🤝 I'm open to collaborating on exciting projects<br>🎯 My goal is to develop a service that can be useful worldwide</p>
+<p align="left">🌍 I'm based in Ukraine<br>✨ Creating bugs since the beginning of 2022<br>✉️  You can contact me at vgerun97@gmail.com<br>🚀  I'm currently working on Laser B1000<br>📚 I'm currently learning Next.js and Node.js<br>🤝 I'm open to collaborating on exciting projects<br>🎯 My goal is to develop a service that can be useful worldwide</p>
 
 ###
 
