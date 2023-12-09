@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Highly skilled Front-end engineer with a Bachelor's degree in Computer Science with over 1 year of software development experience creating visually stunning and user-friendly websites and web applications. Passionate about delivering exceptional user experiences through clean and efficient code.</p>
+<p align="left">Highly skilled Front-end engineer with a Bachelor's degree in Computer Science with over 1.5 year of software development experience creating visually stunning and user-friendly websites and web applications. Passionate about delivering exceptional user experiences through clean and efficient code.</p>
 
 ###
 
