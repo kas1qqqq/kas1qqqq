@@ -99,15 +99,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kas1qqqq&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=uigywnkiub&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-###
-
-<h2 align="left">Support Me</h2>
-
-<a href="https://www.buymeacoffee.com/kas1qqqq"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ###
