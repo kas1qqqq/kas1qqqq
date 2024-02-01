@@ -2,19 +2,11 @@
 
 ###
 
-<p align="left">Highly skilled Front-end engineer with a Bachelor's degree in Computer Science with over 1.5 years of software development experience creating visually stunning and user-friendly websites and web applications. Passionate about delivering exceptional user experiences through clean and efficient code.</p>
+<p align="left">I am a highly motivated and disciplined Fullstack Engineer passionate about complex tasks and solving them through clean and efficient code. I am also self-organized and strive to deliver high-quality work that meets or exceeds your expectations. I am looking for a company where I can contribute my skills and knowledge to create exceptional web applications and work with a team of like-minded individuals.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌍 I'm based in Ukraine<br>✨ Creating bugs since the beginning of 2022<br>✉️  You can contact me at vgerun97@gmail.com<br>🚀  I'm currently working on Laser B1000<br>📚 I'm currently learning Next.js and Node.js<br>🤝 I'm open to collaborating on exciting projects<br>🎯 My goal is to develop a service that can be useful worldwide</p>
-
-###
-
-<h2 align="left">Front-End | Technical Stack</h2>
+<h2 align="left">Frontend Stack</h2>
 
 ###
 
@@ -56,7 +48,7 @@
 
 ###
 
-<h2 align="left">Back-End | Technical Stack and Tools</h2>
+<h2 align="left">Backend Stack and Tools</h2>
 
 ###
 
@@ -75,6 +67,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
@@ -83,17 +77,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
 </div>
 
 ###
