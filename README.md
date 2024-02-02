@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a highly motivated and disciplined Fullstack Engineer passionate about complex tasks and solving them through clean and efficient code. I’m also self-organized and strive to deliver high-quality work that meets or exceeds your expectations. I’m looking for a company where I can contribute my skills and knowledge to create exceptional web applications and work with a team of like-minded individuals.</p>
+<p align="left">I'm a highly motivated and disciplined Fullstack Engineer passionate about complex tasks and solving them through clean and efficient code. I'm also self-organized and strive to deliver high-quality work that meets or exceeds your expectations. I'm looking for a company where I can contribute my skills and knowledge to create exceptional web applications and work with a team of like-minded individuals.</p>
 
 ###
 
