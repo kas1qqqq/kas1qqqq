@@ -103,6 +103,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/markdown/000/fff" height="40" alt="markdown logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/yaml" height="40" alt="yaml logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubpages/000/fff" height="40" alt="githubpages logo"  />
