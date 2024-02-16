@@ -88,6 +88,8 @@ Full Stack Engineer passionate about solving complex tasks through clean and eff
   <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/upstash" height="40" alt="upstash logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000000/fff" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/puppeteer" height="40" alt="puppeteer logo"  />
