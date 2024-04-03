@@ -143,8 +143,17 @@ Full Stack Engineer passionate about solving complex tasks through clean and eff
 
 ###
 
+<h2 align="left">Stats</h2>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=uigywnkiub&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uigywnkiub&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<h2 align="left">Support</h2>
+
+<p><a href="https://www.buymeacoffee.com/eubywnkuee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eubywnkuee" /></a></p><br><be>
