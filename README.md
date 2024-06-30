@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sentry/362D59/fff" height="40" alt="sentry logo"  />
+  <img src="https://cdn.simpleicons.org/sentry/362D59/F9628F" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prettier" height="40" alt="prettier logo"  />
   <img width="12" />
@@ -67,9 +67,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongoose" height="40" alt="mongoose logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongoose/" height="40" alt="mongoose logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/upstash" height="40" alt="upstash logo"  />
   <img width="12" />
