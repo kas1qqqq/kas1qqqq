@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/vitest" height="40" alt="vitest logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/sentry/362D59/F9628F" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prettier" height="40" alt="prettier logo"  />
