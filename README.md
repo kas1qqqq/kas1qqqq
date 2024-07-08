@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Frontend Stack</h2>
+<h2 align="left">Front End Stack</h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">Backend Stack and Tools</h2>
+<h2 align="left">Back End Stack and Tools</h2>
 
 ###
 
