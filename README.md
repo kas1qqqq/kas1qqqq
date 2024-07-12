@@ -1,8 +1,13 @@
-<h1 align="left">Hey there 👋</h1>
+<h1 align="left">Hey folks 👋</h1>
 
 ###
 
-<p align="left">I am a dedicated and focused Full Stack Engineer with a drive to solve complex problems using well-organized and efficient code. I am also proactive and committed to delivering high-quality work that meets or exceeds your expectations.</p>
+<p align="left">I am a driven <b>Full Stack Engineer</b> with a knack for solving complex problems through clean and efficient code. Self-organized and detail-oriented, I excel in delivering high-quality solutions that meet and often exceed project goals.
+
+I actively participate in team discussions, enjoying the exchange of practical ideas and insights. My commitment to continuous learning keeps me abreast of the latest technologies and tools in the development area.
+
+Passionate about innovation and growth, I am eager to join a dynamic company where I can contribute my skills to develop exceptional web applications and collaborate with a talented and motivated team.
+</p>
 
 ###
 
