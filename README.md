@@ -78,7 +78,7 @@ Passionate about innovation and growth, I am eager to join a dynamic company whe
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongoose/" height="40" alt="mongoose logo"  />
+  <img src="https://cdn.simpleicons.org/mongoose" height="40" alt="mongoose logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/upstash" height="40" alt="upstash logo"  />
   <img width="12" />
