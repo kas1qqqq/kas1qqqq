@@ -36,6 +36,8 @@ Passionate about innovation and growth, I am eager to join a dynamic company whe
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextui/000/fff" height="40" alt="nextui logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/radixui" height="40" alt="radixui logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
