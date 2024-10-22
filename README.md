@@ -96,13 +96,19 @@ Passionate about innovation and growth, I am eager to join a dynamic company whe
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000/fff" height="40" alt="vercel logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm" height="40" alt="npm logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/pnpm" height="40" alt="pnpm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/yarn" height="40" alt="yarn logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/trello" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/asana" height="40" alt="asana logo"  />
 </div>
 
 ###
